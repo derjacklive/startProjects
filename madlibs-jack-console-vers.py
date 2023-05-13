@@ -19,6 +19,7 @@ als würdest du {eig} sein <3")             # Compilation
 
 print(f"{madlib} --- Danke Und Hertzliche Füße von {autor}") # Fertige Ausgabe
 
+input("Drücke Enter um das Programm zu beenden") # Ende
 # 
 # Copyright: Jack Ruder
 #
