@@ -17,7 +17,7 @@ madlib = (f"Programmieren ist so {adj1}! Es erfreut Mich die ganze zeit, \
 weil ich es zu {verb1} finde! <3  Bleib Gesund und {verb2} \
 als würdest du {eig} sein <3")             # Compilation
 
-print(f"{madlib} --- Danke Und Hertzliche Füße von {autor}") # Fertige Ausgabe
+print(f"{madlib} --- Danke Und Hertzliche Grüße von {autor}") # Fertige Ausgabe
 
 input("Drücke Enter um das Programm zu beenden") # Ende
 # 
