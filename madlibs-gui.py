@@ -6,7 +6,6 @@
 
 import tkinter as tk
 import customtkinter as ctk
-import PySimpleGUI as sg
 import random
 import time
 
@@ -113,6 +112,20 @@ def reload():
 #print(rds)
 #print(selvar)
 #print(seltxt)
+
+# Einstellungen
+
+ctk.set_appearance_mode("System")
+ctk.set_default_color_theme("green")
+
+gui = ctk.CTk()
+gui.geometry("780x420")
+gui.title("Madlibs")
+gui.resizable(False, False)
+
+gui.mainloop()
+
+
 
 
 #print(values["nomen"])
