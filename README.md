@@ -1,22 +1,21 @@
-# Meine Testprojekte
+# Jacks Testprojekte
 
-Dieses GitHub-Repo dient als Sammlung meiner Testprojekte, bei denen ich verschiedene kleine Spiele entwickle. Mein Hauptziel besteht darin, ein kleines Spiel zu entwickeln, das verschiedene Spiele wie Madlibs und andere umfasst. Als Schüler möchte ich meine Programmierkenntnisse erweitern und neue Konzepte lernen.
+Willkommen zu meiner Sammlung von Testprojekten! Hier findest du verschiedene kleine Spiele und Anwendungen, an denen ich gearbeitet habe. Als Schüler im Atheneum Stade habe ich Spaß daran, meine Programmierkenntnisse zu erweitern und neue Ideen umzusetzen.
 
 ## Projekte
 
-### Madlibs
+### [SongRaten](https://github.com/derjacklive/SongRaten) (@derjacklive/SongRaten) [Webseite](https://derjacklive.github.io/SongRaten)
 
-Das Projekt "Madlibs" ist ein interaktives Wortspiel, bei dem der Spieler eine Geschichte mit Platzhaltern ausfüllt. Die Geschichte wird dann mit den vom Spieler eingegebenen Wörtern vervollständigt, was zu oft überraschenden und lustigen Ergebnissen führt.
+SongRaten ist eines meiner Projekte, bei dem du dein Musikwissen unter Beweis stellen kannst. Rate den Songtitel und sammle Punkte!
 
-### Weitere Projekte
+### [Madlibs](https://github.com/derjacklive/startProjects) (@derjacklive/startProjects)
 
-In Zukunft plane ich, weitere kleine Spiele und Anwendungen zu entwickeln, um meine Programmierfähigkeiten weiter zu verbessern und neue Herausforderungen anzunehmen.
+Madlibs ist ein interaktives Wortspiel, bei dem du lustige Geschichten erstellen kannst, indem du Wörter ergänzt.
 
-## Beitrag und Feedback
+### [Vokabeltrainer](https://github.com/derjacklive/startProjects) (@derjacklive/startProjects)
 
-Ich freue mich über Beiträge und Feedback zu meinen Testprojekten. Wenn Sie Vorschläge haben, wie ich meine Spiele verbessern kann oder neue Ideen für Spiele habe, zögern Sie nicht, ein Issue zu erstellen oder einen Pull Request zu senden. Da ich noch Schüler bin, möchte ich meine Programmierkenntnisse erweitern und von der GitHub-Community lernen.
-=======
-# startProjects
-just a test :)
+Mein neuestes Projekt ist ein Vokabeltrainer in Python, der dir beim Lernen von Fremdsprachen hilft.
 
-## I've given up on this Repo
+## Feedback und Beiträge
+
+Dein Feedback und deine Beiträge sind immer willkommen! Wenn du Vorschläge zur Verbesserung meiner Projekte hast oder neue Ideen einbringen möchtest, zögere nicht, ein Issue zu erstellen oder einen Pull Request zu senden. Ich schätze die Unterstützung der GitHub-Community und freue mich darauf, gemeinsam zu lernen und zu wachsen.
