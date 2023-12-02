@@ -1,3 +1,7 @@
+#This Project is Discontinued 
+(May Change in Future)
+
+
 # Jacks Testprojekte
 
 Willkommen zu meiner Sammlung von Testprojekten! Hier findest du verschiedene kleine Spiele und Anwendungen, an denen ich gearbeitet habe. Als Schüler im Atheneum Stade habe ich Spaß daran, meine Programmierkenntnisse zu erweitern und neue Ideen umzusetzen.
